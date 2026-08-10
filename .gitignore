@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 /spanalytic/core/migrations/
+/runner/

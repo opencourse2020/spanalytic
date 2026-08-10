@@ -1,0 +1,147 @@
+{
+  "config/__init__.py": {
+    "mtime": 1786103761.707908,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "config/asgi.py": {
+    "mtime": 1778441109.165261,
+    "ast_hash": "53530a6cc39f2e9ed6fa87673a487a68",
+    "semantic_hash": "53530a6cc39f2e9ed6fa87673a487a68"
+  },
+  "config/settings/__init__.py": {
+    "mtime": 1786103761.7306173,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "config/settings/base.py": {
+    "mtime": 1786134851.4008315,
+    "ast_hash": "b9f40c288cac82efb73d71c8ce99f15e",
+    "semantic_hash": "b9f40c288cac82efb73d71c8ce99f15e"
+  },
+  "config/settings/local.py": {
+    "mtime": 1786134851.330751,
+    "ast_hash": "d0e42a09a42f0c2f72f4689d259daf1f",
+    "semantic_hash": "d0e42a09a42f0c2f72f4689d259daf1f"
+  },
+  "config/settings/production.py": {
+    "mtime": 1786134851.3851056,
+    "ast_hash": "458717f8f26897723b470b0af73cb9b9",
+    "semantic_hash": "458717f8f26897723b470b0af73cb9b9"
+  },
+  "config/settings/test.py": {
+    "mtime": 1778441109.1753998,
+    "ast_hash": "5b490bdb4a46db0b56af4a4bc9b32200",
+    "semantic_hash": "5b490bdb4a46db0b56af4a4bc9b32200"
+  },
+  "config/urls.py": {
+    "mtime": 1786101105.2149167,
+    "ast_hash": "3069aac50aa43a4db46ac0063a883b89",
+    "semantic_hash": "3069aac50aa43a4db46ac0063a883b89"
+  },
+  "config/wsgi.py": {
+    "mtime": 1786134851.3103938,
+    "ast_hash": "0d2c6b558a7dbf6a7031f306c851c518",
+    "semantic_hash": "0d2c6b558a7dbf6a7031f306c851c518"
+  },
+  "manage.py": {
+    "mtime": 1786134851.35069,
+    "ast_hash": "3b2058a67e84f10777c27b99c57db242",
+    "semantic_hash": "3b2058a67e84f10777c27b99c57db242"
+  },
+  "spanalytic/__init__.py": {
+    "mtime": 1786098659.1376154,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "spanalytic/core/__init__.py": {
+    "mtime": 1786099075.070948,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "spanalytic/core/admin.py": {
+    "mtime": 1786107943.8195486,
+    "ast_hash": "17aa051ffdc6699ac2a32167e7685a9d",
+    "semantic_hash": "17aa051ffdc6699ac2a32167e7685a9d"
+  },
+  "spanalytic/core/apps.py": {
+    "mtime": 1786100781.6630003,
+    "ast_hash": "2e9b9a8f145bfa57636d585bde96d771",
+    "semantic_hash": "2e9b9a8f145bfa57636d585bde96d771"
+  },
+  "spanalytic/core/forms.py": {
+    "mtime": 1786107935.9203055,
+    "ast_hash": "789731f1fce8b6bf3437f7f99f0f7645",
+    "semantic_hash": "789731f1fce8b6bf3437f7f99f0f7645"
+  },
+  "spanalytic/core/models.py": {
+    "mtime": 1786107933.3561778,
+    "ast_hash": "8c2d44a4be73990be4a924a431ad0e21",
+    "semantic_hash": "8c2d44a4be73990be4a924a431ad0e21"
+  },
+  "spanalytic/core/tests.py": {
+    "mtime": 1786099075.068698,
+    "ast_hash": "e08f0582500f6562bf0a931ef9503b39",
+    "semantic_hash": "e08f0582500f6562bf0a931ef9503b39"
+  },
+  "spanalytic/core/urls.py": {
+    "mtime": 1786101164.1864817,
+    "ast_hash": "7d852eedcdfe45441c8e3e31d26012b7",
+    "semantic_hash": "7d852eedcdfe45441c8e3e31d26012b7"
+  },
+  "spanalytic/core/views.py": {
+    "mtime": 1786107940.4618084,
+    "ast_hash": "2748070a643d86a886807e5cd10b427a",
+    "semantic_hash": "2748070a643d86a886807e5cd10b427a"
+  },
+  ".claude/skills/answer-block-authoring/SKILL.md": {
+    "mtime": 1786107100.2676203,
+    "ast_hash": "4c4f200f0bb1810dc2b7d66e232097c5",
+    "semantic_hash": "4c4f200f0bb1810dc2b7d66e232097c5"
+  },
+  "CLAUDE.md": {
+    "mtime": 1786107042.0734735,
+    "ast_hash": "622adb445e92cb1761a108c186c5e153",
+    "semantic_hash": "622adb445e92cb1761a108c186c5e153"
+  },
+  "docs/ENGAGEMENT_SPEC.md": {
+    "mtime": 1786381307.4625864,
+    "ast_hash": "7ef3dd89b2cb18e0f9f2f831c1247712",
+    "semantic_hash": "7ef3dd89b2cb18e0f9f2f831c1247712"
+  },
+  "docs/RUN_BOOK.md": {
+    "mtime": 1786381322.748453,
+    "ast_hash": "c4892719d518727f2edcc0b76abb1391",
+    "semantic_hash": "c4892719d518727f2edcc0b76abb1391"
+  },
+  "docs/austin-study-published.md": {
+    "mtime": 1786381177.875446,
+    "ast_hash": "ba4941e6f7867616b466753fb1594256",
+    "semantic_hash": "ba4941e6f7867616b466753fb1594256"
+  },
+  "docs/frontend-rules.md": {
+    "mtime": 1786107289.4076877,
+    "ast_hash": "58331b8bac6368efb71e070d03c84379",
+    "semantic_hash": "58331b8bac6368efb71e070d03c84379"
+  },
+  "docs/prompt-set-austin-v1.md": {
+    "mtime": 1786381274.1598957,
+    "ast_hash": "d846ba51f7730ac8e3a0497740e9bb1e",
+    "semantic_hash": "d846ba51f7730ac8e3a0497740e9bb1e"
+  },
+  "docs/system-design.md": {
+    "mtime": 1786107285.129714,
+    "ast_hash": "b3195cd3354e9651240260e922ccd995",
+    "semantic_hash": "b3195cd3354e9651240260e922ccd995"
+  },
+  "requierments.txt": {
+    "mtime": 1786134537.6175675,
+    "ast_hash": "c6a4d58067ea87c356af814ed67f2d67",
+    "semantic_hash": "c6a4d58067ea87c356af814ed67f2d67"
+  },
+  "spanalytic/templates/index.html": {
+    "mtime": 1786107960.9021676,
+    "ast_hash": "7d5f12dba9ac4094b894959bcf52ce63",
+    "semantic_hash": "7d5f12dba9ac4094b894959bcf52ce63"
+  }
+}
